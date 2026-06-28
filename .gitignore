@@ -1,0 +1,39 @@
+# Build artefacts
+/build/
+/bin/
+/obj/
+
+# Object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Compiler generated files
+*.gcda
+*.gcno
+*.gcov
+
+# Test output
+/coverage/
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE directories
+.vscode/
+.idea/
+
+# Temporary files
+/tmp/
